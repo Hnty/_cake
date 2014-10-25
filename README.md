@@ -3,4 +3,5 @@
 Allows the user to bake a cake.
 
 ## Usage:
-`java _cake`
+`Navigate to the directory where it has been downlaoded`
+`run: java _cake`
