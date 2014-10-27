@@ -15,7 +15,7 @@ public class _cake {
 		_bake = _input.nextInt();
 
 		if (_bake <= 10){
-			System.out.println("It has only been" + _bake + "minutes." + "The cake has not barely been cooked.");
+			System.out.println("It has only been" + _bake + "minutes." + "The cake has barely been cooking.");
 		} else if (_bake > 35 || _bake < 40 ){
 			System.out.println("Looks like your cake is ready to eat.");
 
